@@ -61,7 +61,7 @@ Sử dụng đầy đủ hai dữ liệu:
 
 Hãy triển khai bài PR chuyên sâu giới thiệu giải pháp AI Chatbot cho doanh nghiệp.
 
-Yêu cầu:
+- Yêu cầu:
 1. Độ dài 1.000–1.500 từ.
 2. Giữ nguyên giọng văn chuyên nghiệp, tin cậy.
 3. Có Headline hấp dẫn.
